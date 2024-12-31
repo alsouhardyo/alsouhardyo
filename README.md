@@ -11,7 +11,7 @@
                 display: flex;
                 justify-content: flex-start;
                 align-items: center;
-                gap: 36px;
+                gap: 1.5rem;
             "
         >
             <a
