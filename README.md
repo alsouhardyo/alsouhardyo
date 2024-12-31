@@ -95,9 +95,8 @@
                     height="42"
             /></a>
         </div>
-
-        <h2>⚡️ Where to find me</h2>
-        <p>
+<h2>⚡️ Where to find me</h2>
+ <p>
             <a
                 target="_blank"
                 href="https://www.facebook.com/abdullahsouhardyo"
