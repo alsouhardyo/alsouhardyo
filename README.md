@@ -11,7 +11,7 @@
                 display: flex;
                 justify-content: flex-start;
                 align-items: center;
-                gap: 8px;
+                gap: 14px;
             "
         >
             <a
@@ -96,13 +96,13 @@
             /></a>
         </div>
 <h2>⚡️ Where to find me</h2>
- <p>
+ <div>
             <a
                 target="_blank"
                 href="https://www.facebook.com/abdullahsouhardyo"
-                style="display: inline-block"
+                style="display: block"
                 ><img
                     src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff"
                     alt="facebook"
             /></a>
-        </p>
+        </div>
